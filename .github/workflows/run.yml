@@ -2,7 +2,7 @@ name: SSH Login
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # 运行
+    - cron: '7 4 * * *'  # 运行
   workflow_dispatch:
 
 jobs:
